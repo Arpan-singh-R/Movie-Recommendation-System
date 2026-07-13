@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# Large model files (uncomment if you don't want to upload them)
+# movies.pkl
+# similarity.pkl
+
+# Large datasets (uncomment if you don't want to upload them)
+# tmdb_5000_movies.csv
+# tmdb_5000_credits.csv
